@@ -1,2 +1,2 @@
 # myTest
-some practice
+some practice about that I use the git and github firstly.
